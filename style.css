@@ -1,0 +1,211 @@
+.Primary{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Secondary{
+    color: #fff;
+    background-color: gray;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Success{
+    color: #fff;
+    background-color: green;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Info{
+    color: #fff;
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Warning{
+    color: #fff;
+    background-color: yellow;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Danger{
+    color: #fff;
+    background-color: red;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Round{
+    color: #fff;
+    background-color: blue;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 25px;
+    display: inline-block;
+    border-radius: 50px;
+}
+i{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 50px;
+}
+.Icon{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Dashed{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px dashed aqua;
+}
+.Link{
+    color: aqua;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10px;
+    display: inline-block;
+}
+.Click{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Jelly{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Fill{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px solid aqua;
+}
+.Pulse{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Open{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px solid aqua;
+}
+.Slide{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px solid aqua;
+}
+.Through{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px solid aqua;
+}
+.Offset{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 4px solid aqua;
+}
+.Flip{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+}
+.Mar{
+    color: #fff;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 25px;
+    display: inline-block;
+    border-radius: 50px;
+}
+.Cross{
+    color: aqua;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    border-radius: 8%;
+    border: 1px solid aqua;
+}
+.Line{
+    color: aqua;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10px;
+    display: inline-block;
+}
+
